@@ -1,0 +1,8 @@
+{
+  "name": "Vantage",
+  "description": "An AI-powered omnichannel content engine that 'watches' your videos to generate high-engagement social posts, threads, and summaries.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
